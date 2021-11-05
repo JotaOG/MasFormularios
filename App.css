@@ -1,0 +1,27 @@
+.App {
+    text-align: center;
+  }
+  
+  .label {
+    width: 400px;
+    margin: auto;
+    margin-top: 10px;
+    padding: 10px;
+    background-color: rgb(219, 215, 215);
+    border-radius: 10px;
+    text-align: left;
+  }
+  
+  .label input {
+    width: 200px;
+    margin-left: 20px;
+  }
+  
+  .data {
+    width: 400px;
+    margin: auto;
+  }
+  
+  .data p {
+    text-align: left;
+  }
